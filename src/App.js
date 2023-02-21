@@ -15,10 +15,6 @@ function App() {
     setCharacters(resultadoApiRickMorty.results);
   }
 
-
-  console.log(characters)
-
-
   return (
     <div className="App">
       <header className="App-header">
